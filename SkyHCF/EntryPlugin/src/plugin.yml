@@ -1,0 +1,10 @@
+main: net.skyhcf.random1.Random
+name: Randomed
+author: SsmidgeX
+version: '1.0'
+description: /skyhcf makes you be best player in game (like zibla)
+
+commands:
+  skyhcf:
+    description: Your description
+    usage: /<command>

@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: net.skyhcf.random1.Random
+
